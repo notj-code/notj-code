@@ -25,8 +25,7 @@ Junwon Kim.
 
 ## 할줄아는거
 
-- C
-- C++
+- C/C++
 - HTML&CSS&JavaScript
 - Python
 - Go
