@@ -2,11 +2,11 @@ Junwon Kim.
 金浚沅。       
 김준원.              
 ===================
-<p>
+
   ![Alt text](banner.jpg "장노출")
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notj-code&show_icons=true&theme=dark)](https://github.com/notj-code)　[![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=notj)](https://solved.ac/notj)         
-</p>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ### Contact
 <p>
   <a href="https://blog.cowkite.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
