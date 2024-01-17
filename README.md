@@ -6,7 +6,7 @@ Junwon Kim.
 <p>
   <a href="mailto:junwonkim59@gmail.com" target="_blank"><img src="https://img.shields.io/badge/junwonkim59@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="mailto:junwonkim04@outlook.com" target="_blank"><img src="https://img.shields.io/badge/junwonkim04@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="codeforces.com/profile/junwonkim0416" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/junwonkim0416" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
   <a href="https://developers.google.com/profile/u/junwonkim" target="_blank"><img src="https://img.shields.io/badge/Google Devloper-4285F4?style=flat-square&logo=Google&logoColor=white"/></a>
   <a href="https://leetcode.com/JunwonKim0416/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
   <a href="https://www.acmicpc.net/user/notj_code" target="_blank"><img src="https://img.shields.io/badge/BK BaekJoon-3E8DCC?style=flat-square&logo=&logoColor=white"/></a>
