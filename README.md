@@ -13,6 +13,7 @@ Junwon Kim.
   <a href="https://solved.ac/profile/notj_code" target="_blank"><img src="https://img.shields.io/badge/AC Solved.ac-99CC00?style=flat-square&logo=&logoColor=white"/></a>
   <a href="https://codeup.kr/userinfo.php?user=junwonkim59" target="_blank"><img src="https://img.shields.io/badge/CodeUp-154881?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-121D33?style=flat-square&logo=bookalope&logoColor=white"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
 
 </p>
