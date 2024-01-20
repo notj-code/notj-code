@@ -24,10 +24,11 @@ Junwon Kim.
 </p>
 
 
-## 할줄아는거
+## Tools&Skills
 
 - C/C++
 - HTML&CSS&JavaScript
+- MySQL/FireBase/MongoDB
 - Python
 - Go
 - 기타치기
