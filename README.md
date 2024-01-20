@@ -24,7 +24,7 @@ Junwon Kim.
 </p>
 
 
-## Tools&Skills
+## Tools & Skills
 
 - C/C++
 - HTML&CSS&JavaScript
