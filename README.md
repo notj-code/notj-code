@@ -1,6 +1,5 @@
 # JunwonKim_김준원_金浚沅。
-> I'm a Korean student studying abroad at Harbin Wanbang School in China.</br>
-안녕하세요. 중국에서 공부하는 고등학생 김준원입니다.
+> Student at @WanbangSchool in China.
 
 ## Contacts & Profiles
 <p>
