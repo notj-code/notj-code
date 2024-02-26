@@ -28,10 +28,9 @@
 
 ## Skills & Experiences
 - C/C++/Go/Java/Python
-- Web Development: HTML/CSS/JS, ReactJS, SveltKit
+- Web Development: HTML/CSS/JS, ReactJS, SveltKit 
 - MongoDB, SQLite, FireBase
 - 1 year of competitive programming & studying algorithm
-- Photos     
 
 ![Alt text](banner.jpg "장노출")        
 =================================================
