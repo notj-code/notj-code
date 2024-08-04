@@ -9,7 +9,7 @@ primarily focusing on computer algorithms, engineering, machine learning, and da
 
 ## Experiences & Interests
 - __2020 Summer:__ Student Journalist, The Korea Herald
-- __2023 Winter:__ ACSL Honorable Mention
+- __2023 Winter:__ USACO Silver Awards
 - __2024 summer:__ Software Engineering intern, Smooth
 
 
