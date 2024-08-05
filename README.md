@@ -1,5 +1,5 @@
 # JunwonKim_김준원_金浚沅。
-> Hi! I'm a Korean student at Harbin Wanbang School in China.   
+> Hi there! I'm a Korean student at Harbin Wanbang School in China.   
 
 primarily focusing on computer algorithms, engineering, machine learning, and data science.
 
