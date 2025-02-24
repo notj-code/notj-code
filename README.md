@@ -9,6 +9,7 @@ Currently focusing on computer algorithms, engineering, machine learning, and da
 ## Experiences & Interests
 - __2020 Summer:__ Student Journalist, The Korea Herald
 - __2024 Spring:__ Co-Founder, Wanbang Developer Conference (WBDC)
+- __2024 Spring:__ Wanbang Online Judge (WBOJ)
 - __2024 Summer:__ Software Engineering intern, Smooth
 - __2025 January:__ USA Computing Olympiad (USACO) Silver Awards
 - __2025 Summer:__ American Computer Science League
