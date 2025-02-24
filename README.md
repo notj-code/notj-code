@@ -1,13 +1,14 @@
 # JunwonKim_김준원_金浚沅。
 > Hi there! I'm a Korean high school student at Harbin Wanbang School in China.   
 
-primarily focusing on computer algorithms, engineering, machine learning, and data science.
+Currently focusing on computer algorithms, engineering, machine learning, and data science.
 
 ## School
 - Harbin Wanbang School (2021~Now)
 
 ## Experiences & Interests
 - __2020 Summer:__ Student Journalist, The Korea Herald
+- __2024 Spring:__ Co-Founder, Wanbang Developer Conference (WBDC)
 - __2024 Summer:__ Software Engineering intern, Smooth
 - __2025 January:__ USA Computing Olympiad (USACO) Silver Awards
 - __2025 Summer:__ American Computer Science League
