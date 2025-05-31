@@ -1,8 +1,3 @@
----
-layout: page
-title: About me
-permalink: /about/
----
 
 # JunwonKim_김준원_金浚沅。
 > Hi! I'm a Korean student currently studying at **Qingdao Daewon International School**. I've cultivated a strong foundation in computer science and developed a passion for leadership rooted in devotion, commitment, and effective communication.
