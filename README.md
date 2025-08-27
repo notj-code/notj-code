@@ -1,9 +1,10 @@
 
 # JunwonKim_김준원_金浚沅。
-> Hi! I'm a Korean student currently studying at **Qingdao Daewon International School**. I've cultivated a strong foundation in computer science and developed a passion for leadership rooted in devotion, commitment, and effective communication.
+> Hello, I'm Junwon. I'm a **Korean** high school junior student at **Qingdao Daewon International School**. I was raised in Korea, but now I live and study in Qingdao, China.
 
-- My primary areas of study are **computer algorithms**, **machine learning**, and **computer hardware**.
-- In my free time, I'm involved in **competitive programming**, **software development**, **photography**, and **playing guitar**. I believe in the power of collaboration, and I'm dedicated to empowering others and building initiatives that foster collective growth.
+- Previously, I enjoyed **competitive programming**, **problem solving with C/C++**. I also founded **a Competitive Programming Club** and **AI Hackathon** in my high school. I organized events, developed a school **online judge (wboj.app)**, and created algorithm problems.
+- Now, I'm currently focusing on **machine learning**, **computer vision**, **image processing**, and **cloud computing**. I'm thinking about how to process large data like images or videos with fewer resources for both clients and service providers.
+- When I'm not doing the above, I usually take photos, play the guitar, or work out at a gym :)
 
 
 ## Contacts & Profiles
