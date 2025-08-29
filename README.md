@@ -16,6 +16,6 @@
 
 <b>
   <a href="https://www.linkedin.com/in/junwon-kim-954a662ab/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/junwonkim0416" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white"/></a>
+  
   <a href="https://github.com/notj-code" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 </b>
